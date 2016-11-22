@@ -42,3 +42,21 @@ ul {
 .card-body p {
   margin-top: 0;
 }
+
+@media only screen and (min-width: 25em) {
+
+  body {
+    margin: 0;
+  }
+
+  .card-img {
+    display: inline-block;
+    width: 15%;
+  }
+
+  .card-body {
+    display: inline-block;
+    width: 70%;
+  }
+
+}
