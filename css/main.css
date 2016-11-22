@@ -30,6 +30,7 @@ img {
 
 h2 {
   margin-bottom: 0;
+  font-weight: normal;
 }
 
 ul {
@@ -39,5 +40,5 @@ ul {
 }
 
 li p {
-  margin: 0;
+  margin-top: 0;
 }
