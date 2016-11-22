@@ -22,13 +22,13 @@ body {
   margin: .75em;
 }
 
-img {
+.card-img img {
   width: 50px;
- display: block;
- margin: auto;
+  display: block;
+  margin: auto;
 }
 
-h2 {
+.card-body h2 {
   margin-bottom: 0;
   font-weight: normal;
 }
@@ -39,6 +39,6 @@ ul {
   list-style: none;
 }
 
-li p {
+.card-body p {
   margin-top: 0;
 }
