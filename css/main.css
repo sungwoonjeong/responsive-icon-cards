@@ -94,4 +94,19 @@ body {
     margin: .75em;
   }
 
+    .card {
+      display: inline-block;
+      width: 32%;
+    }
+
+    .card-img {
+      display: block;
+      margin: auto;
+    }
+
+    .card-body {
+      display: inline;
+    }
+
+
 }
